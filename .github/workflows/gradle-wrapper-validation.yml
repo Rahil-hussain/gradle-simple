@@ -1,4 +1,4 @@
-name: "gradle-simple"
+name: "gradle-simple "
 on:
   push:
     branches:
